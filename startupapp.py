@@ -201,5 +201,6 @@ else :
     if btn2:
         load_investor_details(selected_investor)
     #st.title('Investor Analysis')
+    #my name is dheeraj kushwaha.
 
 
